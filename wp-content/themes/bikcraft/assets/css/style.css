@@ -1212,11 +1212,6 @@ img {
   margin: 8px 0;
 }
 
-.interna_sobre {
-  background: url("../img/bg-sobre.jpg") no-repeat center;
-  background-size: cover;
-}
-
 .missao_sobre {
   padding-top: 60px;
 }
