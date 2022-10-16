@@ -1228,11 +1228,6 @@ img {
   padding-top: 20px;
 }
 
-.interna_portfolio {
-  background: url("../img/bg-portfolio.jpg") no-repeat center;
-  background-size: cover;
-}
-
 .quote_clientes {
   padding: 60px 0;
   max-width: 460px;
