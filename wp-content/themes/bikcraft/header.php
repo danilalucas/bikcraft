@@ -26,16 +26,17 @@
     <body>
         <header class="header">
             <div class="container">
-                <a href="<?= $url ?>" class="grid-4">
+                <a href="<?= get_home_url() ?>" class="grid-4">
                     <img src="<?= $url . '/assets/img/bikcraft.png' ?>" alt="Bikcraft">
                 </a>
                 <nav class="grid-12 header_menu">
-                    <ul>
-                        <li><a href="#">Sobre</a></li>
-                        <li><a href="#">Produtos</a></li>
-                        <li><a href="#">Portfólio</a></li>
-                        <li><a href="#">Contato</a></li>
-                    </ul>
+                <?php
+                    wp_nav_menu( 
+                        array (
+                            'menu' => 'menu-header'
+                        )
+                    );
+                ?>
                 </nav>
             </div>
         </header>
