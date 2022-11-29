@@ -21,7 +21,7 @@
 O layout foi elaborado como projeto do curso de web design no site da origamid, fundamentado nesse layout criei o tema para wordpress.
 
 <a href="https://www.origamid.com/">
-  <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar-Site-%2304D361">
+  <img src="https://img.shields.io/badge/Acessar-Site-%2304D361">
 </a>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
@@ -71,15 +71,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 👩‍💻 Autor
 
 <a href="https://github.com/danilalucas">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/80535640?v=4" width="100px;" alt=""/>
+ <img src="https://avatars.githubusercontent.com/u/80535640?v=4" width="100px;"/>
  <br />
  <sub><b>Daníla Lucas</b></sub></a> <a href="https://github.com/danilalucas" title="Profile"></a>
  <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Danila%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dan%C3%ADla-lucas/)](https://www.linkedin.com/in/dan%C3%ADla-lucas/) 
 [![Gmail Badge](https://img.shields.io/badge/-danilatemoteolucas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danilatemoteolucas@gmail.com)](mailto:danilatemoteolucas@gmail.com)
-
----
 
 Feito com ❤️ por Daníla Lucas 👋🏽 [Entre em contato!](https://www.linkedin.com/in/dan%C3%ADla-lucas/)
 
